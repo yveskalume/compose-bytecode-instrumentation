@@ -23,7 +23,7 @@ fun InjectedBadge() {
         contentAlignment = Alignment.Center
     ) {
         Text(
-            text = "Hey ! i was Injected at Runtime",
+            text = "I wasn't in the source code \uD83D\uDC40",
             color = Color.Black,
             style = MaterialTheme.typography.labelLarge
         )

@@ -1,0 +1,9 @@
+com.composechef.instrumentation.runtime.instrumentation-runtime-pngs-0 /Users/yveskalume/projects/mobile/BytecodeInstrumentation/instrumentation-runtime/build/generated/res/pngs/debug
+com.composechef.instrumentation.runtime.instrumentation-runtime-updated_navigation_xml-1 /Users/yveskalume/projects/mobile/BytecodeInstrumentation/instrumentation-runtime/build/generated/updated_navigation_xml/debug
+com.composechef.instrumentation.runtime.instrumentation-runtime-mergeDebugResources-2 /Users/yveskalume/projects/mobile/BytecodeInstrumentation/instrumentation-runtime/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.composechef.instrumentation.runtime.instrumentation-runtime-mergeDebugResources-3 /Users/yveskalume/projects/mobile/BytecodeInstrumentation/instrumentation-runtime/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.composechef.instrumentation.runtime.instrumentation-runtime-debug-4 /Users/yveskalume/projects/mobile/BytecodeInstrumentation/instrumentation-runtime/build/intermediates/merged_res/debug/mergeDebugResources
+com.composechef.instrumentation.runtime.instrumentation-runtime-debug-5 /Users/yveskalume/projects/mobile/BytecodeInstrumentation/instrumentation-runtime/build/intermediates/packaged_res/debug/packageDebugResources
+com.composechef.instrumentation.runtime.instrumentation-runtime-debug-6 /Users/yveskalume/projects/mobile/BytecodeInstrumentation/instrumentation-runtime/src/debug/res
+com.composechef.instrumentation.runtime.instrumentation-runtime-main-7 /Users/yveskalume/projects/mobile/BytecodeInstrumentation/instrumentation-runtime/src/main/res
+gradleHome-0 /Users/yveskalume/.gradle
